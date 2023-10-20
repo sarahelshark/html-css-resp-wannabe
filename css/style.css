@@ -150,4 +150,7 @@ img {
         padding-bottom: 1.75rem;
     }
 
+    .steps .col {
+        width: 100%;
+    }
  }
